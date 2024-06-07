@@ -1,7 +1,5 @@
-
 #!/usr/bin/python3
 """ -*- coding: rotate matrix """
-
 
 def rotate_2d_matrix(matrix) -> None:
     """ rotate matrix - transpose """
